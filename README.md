@@ -1,9 +1,7 @@
 
-<p align="center">
-    <h3>Oh, hello there.<br>
+<h3 align="center">Oh, hello there.<br>
     Welcome to my git!</h3><br><br>
-    <img style="margin-top:40px;" src="https://media1.tenor.com/images/f397612ffb6a0e75f5973c1bbd320e77/tenor.gif"></img>
-</p> 
+    <img align="center" style="margin-top:40px;" src="https://media1.tenor.com/images/f397612ffb6a0e75f5973c1bbd320e77/tenor.gif"></img>
 <table>
     <tr>
         <td>
