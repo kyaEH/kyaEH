@@ -1,6 +1,6 @@
 
 <h3 align="center">Oh, hello there.<br>
-    Welcome to my git!</h3><br><br>
+    Welcome to my git!</h3><br>
     <img width="100%" src="https://media1.tenor.com/images/f397612ffb6a0e75f5973c1bbd320e77/tenor.gif"></img>
 <table>
     <tr>
