@@ -8,7 +8,7 @@
             My website: <a href="https://iproc.fr">iproc.fr</a> (French website)
         </td>
         <td>
-            My LinkedIn: <a href="https://fr.linkedin.com/in/clementmay">Clement MAY</a>
+            My LinkedIn: <a href="https://fr.linkedin.com/in/clementmay">Clement MAY nologin</a>
         </td>
         <td>
             Contact me: <a href="mailto:pro@iproc.fr">pro@iproc.fr</a>
