@@ -5,16 +5,16 @@
 <table>
     <tr width="100%">
         <td>
-            My website: <a href="https://iproc.fr">iproc.fr</a> (🇫🇷)
+            My website: <br><a href="https://iproc.fr">iproc.fr</a> (🇫🇷)
         </td>
         <td>
-            My LinkedIn: <a href="https://fr.linkedin.com/in/clementmay">https://fr.linkedin.com/in/clementmay</a> (🇫🇷)
+            My LinkedIn: <br><a href="https://fr.linkedin.com/in/clementmay">https://fr.linkedin.com/in/clementmay</a> (🇫🇷)
         </td>
         <td>
-            Contact me: <a href="mailto:pro@iproc.fr">pro@iproc.fr</a>
+            Contact me: <br><a href="mailto:pro@iproc.fr">pro@iproc.fr</a>
         </td>
         <td>
-            Discord: Mme poulpy#0666
+            Discord: <br>Mme poulpy#0666
         </td>
     </tr>
 </table>
