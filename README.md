@@ -1,8 +1,15 @@
 <img height="100%" src="https://i.imgur.com/lnc5aWx.png"></img>
 <h3 align="center">Oh, hello there.<br>
     Welcome to my git!</h3><br>
-   <img src="https://img.shields.io/badge/Languages-NodeJS-red"></img><img src="https://img.shields.io/badge/Languages-Python-green"></img>
-<img height="100%" src="https://i.imgur.com/gzSR8Sp.png"></img>    
+   <p align="center">
+        <img src="https://img.shields.io/badge/Languages-NodeJS-red"></img>
+        <img src="https://img.shields.io/badge/Languages-Python-green"></img>
+        <img src="https://img.shields.io/badge/Languages-PHP-blue"></img><br>
+        <img src="https://img.shields.io/badge/Ethical Hacking-Web-red"></img>
+        <img src="https://img.shields.io/badge/Ethical Hacking-SE-green"></img>
+        <img src="https://img.shields.io/badge/Ethical Hacking-OSINT-blue"></img>
+        <br><sub><sup>Sorry for the colors, I'm colorblind</sup></sub>
+   </p>
 <table>
     <tr width="100%">
         <td>
