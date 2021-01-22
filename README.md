@@ -1,7 +1,7 @@
 <img height="100%" src="https://i.imgur.com/lnc5aWx.png"></img>
 <h3 align="center">Oh, hello there.<br>
     Welcome to my git!</h3><br>
-    
+<img height="100%" src="https://i.imgur.com/gzSR8Sp.png"></img>    
 <table>
     <tr width="100%">
         <td>
