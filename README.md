@@ -10,6 +10,7 @@
         <img src="https://img.shields.io/badge/Ethical Hacking-OSINT-blue"></img>
         <br><sub><sup>Sorry for the colors, I'm colorblind</sup></sub>
    </p>
+<img height="100%" src="https://i.imgur.com/gzSR8Sp.png"></img>  
 <table>
     <tr width="100%">
         <td>
