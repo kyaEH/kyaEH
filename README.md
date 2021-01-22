@@ -21,4 +21,4 @@
         </td>
     </tr>
 </table>
-<p><small>JS: atob("SGVsbG8gdGhlcmUsCk15IG5hbWUncyBDbOltZW50LCBJJ20gMjEuCkknbSBmcm9tIEZyYW5jZSwgbG9va2luZyBmb3IgYSBzdHVkeSBjb250cmFjdCwgc2tpbGxzLCBhbmQgaGFja2luZyBzeXN0ZW1zCkNvbnRhY3QgbWU6IHByb0BpcHJvYy5mcgpBbmQgZG9uJ3QgcnVuIHJhbmRvbSBzY3JpcHQgaW50byB5b3VyIGNvbnNvbGUh")</small></p>
+<sub><sup>JS: atob("SGVsbG8gdGhlcmUsCk15IG5hbWUncyBDbOltZW50LCBJJ20gMjEuCkknbSBmcm9tIEZyYW5jZSwgbG9va2luZyBmb3IgYSBzdHVkeSBjb250cmFjdCwgc2tpbGxzLCBhbmQgaGFja2luZyBzeXN0ZW1zCkNvbnRhY3QgbWU6IHByb0BpcHJvYy5mcgpBbmQgZG9uJ3QgcnVuIHJhbmRvbSBzY3JpcHQgaW50byB5b3VyIGNvbnNvbGUh")</sup></sub>
