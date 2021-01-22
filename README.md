@@ -13,7 +13,7 @@
         <td>
             Contact me: <a href="mailto:pro@iproc.fr">pro@iproc.fr</a>
         </td>
-        <td>
+        <td width="100%">
              :)
         </td>
     </tr>
