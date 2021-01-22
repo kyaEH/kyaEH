@@ -17,7 +17,7 @@
             Discord: <br>Mme poulpy#0666
         </td>
         <td>
-            I'm looking for<br>a study contract
+            I'm looking for<br>a study contract in IT
         </td>
     </tr>
 </table>
