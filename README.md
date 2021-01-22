@@ -1,6 +1,7 @@
 <img height="100%" src="https://i.imgur.com/lnc5aWx.png"></img>
 <h3 align="center">Oh, hello there.<br>
     Welcome to my git!</h3><br>
+   <img src="https://img.shields.io/badge/Languages-NodeJS-red"></img><img src="https://img.shields.io/badge/Languages-Python-green"></img>
 <img height="100%" src="https://i.imgur.com/gzSR8Sp.png"></img>    
 <table>
     <tr width="100%">
