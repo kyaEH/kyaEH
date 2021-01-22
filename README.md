@@ -2,10 +2,10 @@
 <h3 align="center">Oh, hello there.<br>
     Welcome to my git!</h3><br>
    <p align="center">
-        <img src="https://img.shields.io/badge/Languages-NodeJS-yellow"></img>
+        <img src="https://img.shields.io/badge/Languages-NodeJS-purple"></img>
         <img src="https://img.shields.io/badge/Languages-Python-blue"></img>
         <img src="https://img.shields.io/badge/Languages-PHP-red"></img><br>
-        <img src="https://img.shields.io/badge/Ethical Hacking-Web-yellow"></img>
+        <img src="https://img.shields.io/badge/Ethical Hacking-Web-purple"></img>
         <img src="https://img.shields.io/badge/Ethical Hacking-SE-blue"></img>
         <img src="https://img.shields.io/badge/Ethical Hacking-OSINT-red"></img><br><br>
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaEH&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&hide=html,css,java">
