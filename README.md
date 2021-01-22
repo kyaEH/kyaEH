@@ -21,4 +21,4 @@
         </td>
     </tr>
 </table>
-<p style="font-size: smaller;"><small>SGVsbG8gdGhlcmUsCk15IG5hbWUncyBDbOltZW50LCBJJ20gMjEuCkknbSBmcm9tIEZyYW5jZSwgbG9va2luZyBmb3IgYSBzdHVkeSBjb250cmFjdCwgc2tpbGxzLCBhbmQgaGFja2luZyBzeXN0ZW1zCkNvbnRhY3QgbWU6IHByb0BpcHJvYy5mcg==</small></p>
+<p style="font-size: smaller;"><small>JS: atob("SGVsbG8gdGhlcmUsCk15IG5hbWUncyBDbOltZW50LCBJJ20gMjEuCkknbSBmcm9tIEZyYW5jZSwgbG9va2luZyBmb3IgYSBzdHVkeSBjb250cmFjdCwgc2tpbGxzLCBhbmQgaGFja2luZyBzeXN0ZW1zCkNvbnRhY3QgbWU6IHByb0BpcHJvYy5mcg==")</small></p>
