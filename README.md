@@ -5,10 +5,10 @@
 <table>
     <tr width="100%">
         <td>
-            My website: <a href="https://iproc.fr">iproc.fr</a> (French website)
+            My website: <a href="https://iproc.fr">iproc.fr</a> (🇫🇷)
         </td>
         <td>
-            My LinkedIn: <a href="https://fr.linkedin.com/in/clementmay">Clement MAY </a>(no login)
+            My LinkedIn: <a href="https://fr.linkedin.com/in/clementmay">Clement MAY </a>
         </td>
         <td>
             Contact me: <a href="mailto:pro@iproc.fr">pro@iproc.fr</a>
