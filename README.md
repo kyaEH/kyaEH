@@ -14,7 +14,7 @@
             Contact me: <a href="mailto:pro@iproc.fr">pro@iproc.fr</a>
         </td>
         <td>
-            LF a job
+            LF a job | FR
         </td>
     </tr>
 </table>
