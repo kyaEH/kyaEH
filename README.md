@@ -3,11 +3,12 @@
     Welcome to my git!</h3><br>
    <p align="center">
         <img src="https://img.shields.io/badge/Languages-NodeJS-red"></img>
-        <img src="https://img.shields.io/badge/Languages-Python-green"></img>
-        <img src="https://img.shields.io/badge/Languages-PHP-blue"></img><br>
+        <img src="https://img.shields.io/badge/Languages-Python-blue"></img>
+        <img src="https://img.shields.io/badge/Languages-PHP-yellow"></img><br>
         <img src="https://img.shields.io/badge/Ethical Hacking-Web-red"></img>
-        <img src="https://img.shields.io/badge/Ethical Hacking-SE-green"></img>
-        <img src="https://img.shields.io/badge/Ethical Hacking-OSINT-blue"></img>
+        <img src="https://img.shields.io/badge/Ethical Hacking-SE-blue"></img>
+        <img src="https://img.shields.io/badge/Ethical Hacking-OSINT-yellow"></img><br><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaEH&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
         <br><sub><sup>Sorry for the colors, I'm colorblind</sup></sub>
    </p>
 <img height="100%" src="https://i.imgur.com/gzSR8Sp.png"></img>  
