@@ -8,7 +8,7 @@
         <img src="https://img.shields.io/badge/Ethical Hacking-Web-yellow"></img>
         <img src="https://img.shields.io/badge/Ethical Hacking-SE-blue"></img>
         <img src="https://img.shields.io/badge/Ethical Hacking-OSINT-red"></img><br><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaEH&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaEH&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5">
         <br><sub><sup>Sorry for the colors, I'm colorblind</sup></sub>
    </p>
 <img height="100%" src="https://i.imgur.com/gzSR8Sp.png"></img>  
