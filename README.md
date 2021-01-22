@@ -11,7 +11,7 @@
             (🇫🇷) My LinkedIn: <br><a href="https://fr.linkedin.com/in/clementmay">https://fr.linkedin.com/in/clementmay</a>
         </td>
         <td>
-            Contact me: <br><a href="mailto:pro@iproc.fr">pro@iproc.fr</a>
+            Contact me by mail: <br><a href="mailto:pro@iproc.fr">pro@iproc.fr</a>
         </td>
         <td>
             Discord: <br>Mme poulpy#0666
