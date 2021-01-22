@@ -1,7 +1,7 @@
 
 <h3 align="center">Oh, hello there.<br>
     Welcome to my git!</h3><br>
-    <img height="50%" src="https://media1.tenor.com/images/f397612ffb6a0e75f5973c1bbd320e77/tenor.gif"></img>
+    <img height="100%" src="https://i.imgur.com/lnc5aWx.png"></img>
 <table>
     <tr>
         <td>
