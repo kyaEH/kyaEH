@@ -18,7 +18,7 @@
             (🇫🇷) My website: <br><a href="https://iproc.fr">iproc.fr</a> 
         </td>
         <td>
-            Contact me by mail:<br><a href="mailto:pro@iproc.fr">pro@iproc.fr</a>
+            Contact me on Discord:<br><u>Pâstel#0001</u>
         </td>
     </tr>
 </table>
