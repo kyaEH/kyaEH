@@ -18,8 +18,8 @@
             (🇫🇷) My website: <br><a href="https://iproc.fr">iproc.fr</a> 
         </td>
         <td>
-            Contact me on Discord:<br><u>Pâstel#0001</u>
+            Contact me on Discord:<br><u>pastalix</u>
         </td>
     </tr>
 </table>
-<sub><sup><sub><sup>atob("SGVsbG8gdGhlcmUsCk15IG5hbWUncyBDbOltZW50LCBJJ20gMjEuCkknbSBmcm9tIEZyYW5jZSwgbG9va2luZyBmb3IgYSBzdHVkeSBjb250cmFjdCwgc2tpbGxzLCBhbmQgaGFja2luZyBzeXN0ZW1zCkNvbnRhY3QgbWU6IHByb0BpcHJvYy5mcgpBbmQgZG9uJ3QgcnVuIHJhbmRvbSBzY3JpcHQgaW50byB5b3VyIGNvbnNvbGUh")</sup></sub></sup></sub> 
+<sub><sup><sub><sup>eval(atob("d2luZG93LmxvY2F0aW9uLmhyZWY9Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9hbGl4bWF5LyI7"))</sup></sub></sup></sub> 
