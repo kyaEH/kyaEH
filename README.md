@@ -18,7 +18,7 @@
             (🇫🇷) My website: <br><a href="https://iproc.fr">iproc.fr</a> 
         </td>
         <td>
-            Contact me on Discord:<br><u>pastalix</u>
+            Contact me on Discord:<br><u>[pastalix](https://dcbadge.vercel.app/api/shield/555148052826947645)</u>
         </td>
     </tr>
 </table>
