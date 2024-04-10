@@ -18,8 +18,12 @@
             (🇫🇷) My website: <br><a href="https://iproc.fr">iproc.fr</a> 
         </td>
         <td>
-            Contact me on Discord:<br><u>[pastalix](https://dcbadge.vercel.app/api/shield/555148052826947645)</u>
+            Contact me on Discord:<br> <img src="https://dcbadge.vercel.app/api/shield/555148052826947645?style=flat"></img>
         </td>
+    <td>
+            LinkedIn:<br> <a href="https://www.linkedin.com/in/alixmay/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></img></a>
+        </td>
+    
     </tr>
 </table>
 <sub><sup><sub><sup>eval(atob("d2luZG93LmxvY2F0aW9uLmhyZWY9Imh0dHBzOi8vd3d3LmxpbmtlZGluLmNvbS9pbi9hbGl4bWF5LyI7"))</sup></sub></sup></sub> 
