@@ -4,11 +4,11 @@
    <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kyaEH&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=10&hide=html,css,java"><br><br>
         <img src="https://img.shields.io/badge/Languages-NodeJS-purple"></img>
-        <img src="https://img.shields.io/badge/Languages-Python-blue"></img>
-        <img src="https://img.shields.io/badge/Languages-PHP-red"></img><br>
+        <img src="https://img.shields.io/badge/Languages-Python-green"></img>
+        <img src="https://img.shields.io/badge/Languages-Golang-blue"></img><br>
         <img src="https://img.shields.io/badge/Ethical Hacking-Web-purple"></img>
-        <img src="https://img.shields.io/badge/Ethical Hacking-SE-blue"></img>
-        <img src="https://img.shields.io/badge/Ethical Hacking-OSINT-red"></img>
+        <img src="https://img.shields.io/badge/Ethical Hacking-SE-green"></img>
+        <img src="https://img.shields.io/badge/Ethical Hacking-OSINT-blue"></img>
 
    </p>
 <img height="100%" src="https://i.imgur.com/gzSR8Sp.png"></img>  
